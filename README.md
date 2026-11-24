@@ -6,9 +6,6 @@
 [![ASIC](https://img.shields.io/badge/PDK-SkyWater%20130nm%20(SKY130)-green.svg)](#)
 [![Flow](https://img.shields.io/badge/Flow-RTL--to--GDSII%20(LibreLane)-purple.svg)](#)
 
-**Authors:** K Ashuthosh Bhat, Shreyas P M, Sriram Kiran Akella  
-**Guide:** Dr. Nikhil K S, Department of Electronics and Communication Engineering, NITK Surathkal  
-
 ---
 
 ## 1. Introduction
